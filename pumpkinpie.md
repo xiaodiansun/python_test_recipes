@@ -1,3 +1,9 @@
 # Pumpkin
+
 ## Ingredients
-## Instructions  
+* pumpkin
+* sugar
+* crust
+* eggs
+
+## Instructions
